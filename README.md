@@ -1,7 +1,7 @@
 # **XanaTool - Community Edition**  
 ### 🔥 Created by ViperFSFA  
 
-XanaTool is a **real-time network packet sniffer and analyzer** designed for cybersecurity professionals, ethical hackers, and researchers. With its **intuitive GUI** built using **Tkinter**, this tool enables users to **monitor, decode, and inspect network traffic** with ease.  
+XanaTool is a **real-time network packet sniffer and analyzer** designed for cybersecurity professionals, ethical hackers, and researchers. With its **intuitive GUI**, this tool enables users to **monitor, decode, and inspect network traffic** with ease.  
 
 > **⚠️ Disclaimer:**  
 > - Use XanaTool **ONLY** on networks you own or have explicit permission to analyze.  
