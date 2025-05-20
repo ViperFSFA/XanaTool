@@ -14,13 +14,13 @@ A powerful network packet analysis tool with a modern, user-friendly interface. 
 ## Installation
 
 ### From Executable
-1. Download the latest release from the [Releases](https://github.com/yourusername/XanaTool/releases) page
+1. Download the latest release from the [Releases](https://github.com/ViperFSFA/XanaTool/releases) page
 2. Run `XanaTool.exe` (requires administrator privileges)
 
 ### From Source
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/XanaTool.git
+git clone https://github.com/ViperFSFA/XanaTool.git
 ```
 
 2. Install dependencies:
